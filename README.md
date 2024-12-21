@@ -38,5 +38,10 @@ memecoins & gamefi产生的double flying wheel
 
 
 ## _references
+resources
+- https://pump.fun/
+- https://nftpricefloor.com/
 
-
+papers(private)
+- blur启动法
+- bonding curve的形成
