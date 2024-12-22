@@ -45,3 +45,4 @@ resources
 papers(private)
 - blur启动法
 - bonding curve的形成
+- Memecoin Supercycle -Token2049 Singapore
