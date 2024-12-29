@@ -1,6 +1,6 @@
 # Meme Craft
 
-Token is the Product.
+**Token is the Product.**
 
 The Crypto Industry is a Token-Production Industry masquerading as a Software-Production Industry.
 
@@ -12,7 +12,7 @@ Memecoins = Tokenized Communities. shared ...
 - PvE Memecoins (aka "Cults")  :heavy_check_mark:
 
 **What Actually Matters**
-- <font color="orange">Community</font>
+- Community
 - Poor people getting Rich
 - Pereived Maximum Upside
 - (Token) Distribution
@@ -24,7 +24,7 @@ Memecoins = Tokenized Communities. shared ...
 - No Supply Overhang
 - Focusing on New Coins (Price Discovery)
 - Avoiding Old Coins (Bagholders)
-- <font color="orange">Price Action</font>
+- Price Action
 - Positive Momentum
 - Evangelism + Community Participation
 - Where can you buy it?
@@ -35,7 +35,7 @@ Memecoins = Tokenized Communities. shared ...
 - Who the Whales are
 - Who the KOLs are
 - Who is talking about this on Social Media?
-- <font color="orange">The Concept / The Meme</font>
+- The Concept / The Meme
 - The Message
 - Decentralzation
 - Cultiness
@@ -100,12 +100,13 @@ memecoins & gamefi产生的double flying wheel
 3. 使coins在下一阶段产生实际用途，并持续影响coins市场
 
 
-## _references
+## _References
 resources
 - https://pump.fun/
 - https://nftpricefloor.com/
 
-research
-- blur启动法
-- bonding curve的形成
-- Memecoin Supercycle -Token2049 Singapore
+research (_private)
+- Blur启动法
+- Ponzi Problem
+- Bonding curve的形成
+- Memecoin Supercycle
