@@ -102,8 +102,7 @@ memecoins & gamefi产生的double flying wheel
 
 ## _References
 resources
-- https://pump.fun/
-- https://nftpricefloor.com/
+
 
 research (_private)
 - Blur启动法
