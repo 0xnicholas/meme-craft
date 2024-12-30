@@ -1,6 +1,6 @@
 # Meme Craft
 
-**Token is the Product.**
+> Token is the Product.
 
 The Crypto Industry is a Token-Production Industry masquerading as a Software-Production Industry.
 
